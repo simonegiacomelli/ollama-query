@@ -28,7 +28,8 @@ def main():
     cache_path = Path('cache')
     cache_path.mkdir(exist_ok=True)
     libs = Path('libs.txt').read_text().split('\n')
-    Path('libs-descriptions.txt').unlink(missing_ok=True)
+    output = Path('descriptions.md')
+    output.unlink(missing_ok=True)
     libs = [lib for lib in libs if lib and lib.strip() != '']
     for lib in libs:
         print(f'\nQuerying {lib}')
@@ -37,8 +38,8 @@ def main():
             cache.write_text(query(lib))
         content = clean_content(cache.read_text())
 
-        with open('libs-descriptions.txt', 'a') as f:
-            f.write(f'----- {lib} -----\n{content}\n')
+        with open(output, 'a') as f:
+            f.write(f'## {lib}\n{content}\n')
 
 
 if __name__ == '__main__':
