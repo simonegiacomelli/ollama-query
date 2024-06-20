@@ -31,8 +31,10 @@ def main():
     output = Path('descriptions.md')
     output.unlink(missing_ok=True)
     libs = [lib for lib in libs if lib and lib.strip() != '']
+    n = 0
     for lib in libs:
-        print(f'\nQuerying {lib}')
+        n += 1
+        print(f'\nQuerying {lib} {n}/{len(libs)}')
         cache = cache_path / f'{lib}.txt'
         if not cache.exists():
             cache.write_text(query(lib))
