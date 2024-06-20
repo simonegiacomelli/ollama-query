@@ -1,18 +1,21 @@
 import os
 from pathlib import Path
 
-
 import subprocess
+
 
 def query(lib):
     template = Path('template.txt').read_text()
     question = Path('temp-question.txt')
     question.write_text(template.replace('%1', lib))
 
+    answer = Path('temp-answer.txt')
+    answer.unlink(missing_ok=True)
     with open('temp-answer.txt', 'w') as f:
         subprocess.run(['ollama', 'run', 'llama3'], stdin=open('temp-question.txt', 'r'), stdout=f, check=True)
 
-    return Path('temp-answer.txt').read_text().replace(' ', '')
+    return answer.read_text().replace(' ', '')
+
 
 def clean_content(content):
     c1 = content.strip()
@@ -32,7 +35,7 @@ def main():
         cache = cache_path / f'{lib}.txt'
         if not cache.exists():
             cache.write_text(query(lib))
-        content = clean_content( cache.read_text())
+        content = clean_content(cache.read_text())
 
         with open('libs-descriptions.txt', 'a') as f:
             f.write(f'----- {lib} -----\n{content}\n')
