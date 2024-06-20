@@ -1,0 +1,8 @@
+please give me an introduction and a description of the Python library "%1".
+
+The introduction should be less than 25 words.
+(A couple of blank lines)
+The description should be less than 100 words.
+
+Do not use a title or a paragraph like 'Introduction:' I don't want it!
+Just start with the introduction without commentary, then and two blank lines and then add the description
