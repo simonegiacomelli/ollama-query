@@ -1,0 +1,6 @@
+Beautifulsoup4 is a Python library that provides an easy-to-use interface for parsing HTML and XML documents.
+
+
+
+BeautifulSoup is a Python library that allows you to parse HTML and XML documents, and extract data from them. It's particularly useful when dealing with web scraping or web crawling tasks, as it simplifies the process of navigating through complex document structures and extracting specific pieces of information. With BeautifulSoup, you can easily search for specific tags, traverse the DOM tree, and even modify the contents of HTML elements.
+

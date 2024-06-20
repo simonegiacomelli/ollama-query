@@ -1,0 +1,6 @@
+The `threadpoolctl` library in Python allows you to control the number of threads used for parallel execution.
+
+
+
+The `threadpoolctl` module is built on top of the `concurrent.futures` module and provides more control over the thread pool size. You can use it to limit the number of concurrent threads, which can be useful when dealing with I/O-bound operations or limited system resources.
+

@@ -1,0 +1,7 @@
+Colorspacious is a Python library that provides an efficient way to convert between different color spaces.
+
+
+
+
+This library allows for conversions between various color spaces such as RGB, sRGB, Adobe RGB, DCI-P3, CIE XYZ, and CIE Lab. It also supports converting between different gamma versions of the same color space. The conversions are done in a way that is both accurate and efficient, making it suitable for use in production environments where high-quality and fast conversion times are important.
+

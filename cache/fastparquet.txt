@@ -1,0 +1,6 @@
+Fastparquet is a Python library for working with Parquet files.
+
+
+
+Fastparquet provides an efficient way to read and write Parquet files in Python. It is designed to be fast and flexible, allowing you to easily integrate Parquet data into your applications. With support for compression and encryption, Fastparquet makes it easy to store large datasets while maintaining performance and security.
+

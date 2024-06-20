@@ -1,0 +1,6 @@
+The SISL library is a Python package for signal processing and image analysis.
+
+
+
+SISL (Signal Image Signal Language) is a domain-specific language that allows users to define signal processing workflows using simple, intuitive syntax. It provides an efficient way to process large datasets, including images, audio signals, and time series data. SISL supports various algorithms for filtering, feature extraction, classification, and regression, making it a valuable tool for scientific research and industrial applications.
+

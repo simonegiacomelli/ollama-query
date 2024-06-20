@@ -1,0 +1,6 @@
+Python is a versatile language that has numerous libraries to cater to various needs of its users.
+
+
+
+pyrsistent is a Python library for working with persistent sets, multisets, and maps. It allows you to create immutable sets, multisets, and maps from hashable elements, which can be used in scenarios where data persistence is required.
+

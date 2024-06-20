@@ -1,0 +1,6 @@
+Pure Eval is a simple Python library that allows you to execute arbitrary Python code at runtime.
+
+
+
+Pure Eval provides a way to evaluate Python expressions without executing them as code. This can be useful when you need to dynamically generate and execute code, but you don't want to worry about things like module imports or namespace pollution. It's also useful for testing and debugging purposes where you might want to execute arbitrary Python code.
+

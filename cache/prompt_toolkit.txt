@@ -1,0 +1,6 @@
+The prompt_toolkit library is a popular Python package for building powerful command-line interfaces.
+
+
+
+The prompt_toolkit library provides a flexible way to build command-line interfaces (CLIs) in Python. It allows you to create complex prompts, handle user input, and display output in a variety of ways. The library includes features like auto-completion, syntax highlighting, and input validation, making it easy to build robust CLIs that users will love.
+

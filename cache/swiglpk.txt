@@ -1,0 +1,6 @@
+SWIGLPK is an interface for SWIG (Simplified Wrapper and Interface Generator) that provides a high-level language binding to LPK, which is a library for linear programming with automatic differentiation.
+
+
+
+SWIGLPK allows you to wrap LPK functions in Python, making it easier to use the power of LPK's optimization capabilities within your own Python projects. With SWIGLPK, you can define Python interfaces to LPK functions and then import them into your Python code, giving you access to LPK's linear programming capabilities from within Python.
+

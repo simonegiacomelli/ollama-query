@@ -1,0 +1,6 @@
+Python-sat is an open-source library that provides Python bindings to the Stanford CoreNLP (Natural Language Processing) tools.
+
+
+
+The python-sat library allows developers to easily integrate Stanford CoreNLP's functionality into their Python applications. It includes features such as part-of-speech tagging, named entity recognition, and sentence parsing. With this library, you can analyze text data, extract relevant information, and perform various natural language processing tasks.
+

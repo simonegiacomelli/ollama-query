@@ -1,0 +1,6 @@
+Pyinstrument is a Python library that provides a simple way to measure the execution time of functions or code snippets.
+
+ 
+
+pyinstrument allows you to profile your Python code by measuring the execution time of specific functions or code blocks. It's particularly useful for identifying performance bottlenecks in your application and optimizing them for better performance. Pyinstrument also supports profiling asynchronous code, which is especially important when working with concurrent or event-driven applications. With pyinstrument, you can easily generate reports that highlight which parts of your code are taking the most time to execute, helping you pinpoint areas that need improvement.
+

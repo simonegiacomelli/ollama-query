@@ -1,0 +1,6 @@
+Munch is a Python library that provides a simple way to extract information from HTML files.
+
+
+
+munch simplifies the process of extracting specific data from complex HTML structures by allowing you to specify a set of "munchable" elements. These are defined using XPath-like expressions, which can be used to target specific parts of an HTML file and extract relevant data. This makes it easy to scrape data from web pages or work with HTML documents in general.
+

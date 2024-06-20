@@ -1,0 +1,6 @@
+The asttokens library is used for parsing abstract syntax trees (ASTs) in Python.
+
+
+
+The asttokens library is a part of the Abstract Syntax Trees library for Python. It allows you to create an abstract syntax tree from source code using the Abstract Syntax Trees (AST) module, which is part of the Python Standard Library. This library provides support for parsing and analyzing the structure of Python programs. You can use it to examine the syntax and semantics of your code.
+

@@ -1,0 +1,6 @@
+XGBoost is an open-source software library that provides efficient and scalable implementations of gradient boosting algorithms for Python.
+
+
+
+XGBoost allows you to train and deploy machine learning models efficiently by leveraging modern CPU architectures and parallelizing computations across multiple cores. It also supports distributed training on large datasets, making it suitable for big data applications. XGBoost's focus is on performance, simplicity, and ease of use, making it a popular choice among data scientists and engineers.
+

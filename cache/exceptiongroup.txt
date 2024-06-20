@@ -1,0 +1,7 @@
+The exceptiongroup library is a part of Python's standard library.
+
+
+
+
+The exceptiongroup library provides functionality to group exceptions together into an aggregate exception that can be used to report multiple related errors. This allows for better error handling and reporting in your code, as it provides a way to handle and report multiple exceptions at once.
+

@@ -1,0 +1,6 @@
+The Python library "cvxpy-base" is widely used.
+
+
+
+cvxpy-base is a library for mathematical optimization that builds upon CVXPY's modeling API. It provides a high-level interface for expressing convex and conic optimization problems in a concise, Pythonic way. The library uses the popular MOSEK solver to solve the optimization problems. cvxpy-base also includes a set of useful solvers and utilities to help with common tasks, such as matrix operations and data manipulation.
+

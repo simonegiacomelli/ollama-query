@@ -1,0 +1,7 @@
+RobotRaconteur is an open-source Python library that provides a high-level interface to various robotic platforms.
+
+
+ 
+
+RobotRaconteur allows developers to create software applications that interact with robots from different manufacturers and platforms. It abstracts away the complexities of communicating with individual robot APIs, providing a unified way to control and retrieve data from a wide range of robots. This enables users to focus on developing their own robotics applications without worrying about the underlying hardware or software differences between the various robotic platforms.
+

@@ -1,0 +1,6 @@
+Tomli-W is a Python library that provides support for TOML (Tom's Obvious, Minimal Language) files.
+
+ 
+
+Tomli-W allows you to read and write TOML files in a straightforward manner. It provides a simple API for parsing and generating TOML data structures. This makes it easy to work with configuration files or other types of data stored in the TOML format.
+

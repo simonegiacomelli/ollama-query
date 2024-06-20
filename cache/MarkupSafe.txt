@@ -1,0 +1,6 @@
+MarkupSafe is a Python library that provides a safe way to generate HTML templates. It allows you to embed Python expressions in your HTML templates, which are then evaluated at runtime.
+
+
+
+MarkupSafe provides a secure way of embedding Python code within HTML templates by allowing you to safely include and evaluate the code. The library uses XML-based templating language (ETL) as its template engine. This makes it an ideal choice for web development projects that require the use of Python expressions within templates, especially when security is a concern.
+

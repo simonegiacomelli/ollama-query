@@ -1,0 +1,6 @@
+Scikit-image is an open-source Python library for image processing.
+
+
+
+Scikit-image is a free/libre Python package designed for image processing research. It provides algorithms for image filtering, feature extraction, and segmentation. The library is built on top of SciPy and NumPy, which allows it to seamlessly integrate with other scientific computing tools in Python. Scikit-image includes tools for working with various image formats, such as JPEG, PNG, and TIFF.
+

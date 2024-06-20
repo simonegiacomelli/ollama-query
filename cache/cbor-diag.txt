@@ -1,0 +1,6 @@
+The cbor-diag library is a Python package that provides a simple way to create diagnostic messages in CBOR (Concise Binary Object Representation) format.
+
+
+
+The cbor-diag library allows you to easily generate diagnostic messages that can be transmitted and processed by devices or systems using the CBOR protocol. It includes functions for creating error reports, logging events, and sending notifications, all in a concise binary format.
+

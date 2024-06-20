@@ -1,0 +1,6 @@
+Rebound is a Python library that provides a simple way to work with bouncing objects in games.
+
+
+
+rebound is a small, lightweight library for creating games that feature bouncing balls, platforms, and other elastic collisions. It's designed to be easy to use and integrates well with other popular game development libraries.
+

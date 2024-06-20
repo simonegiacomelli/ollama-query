@@ -1,0 +1,7 @@
+Screen is a Python library that provides a simple way to manipulate and control terminal screens.
+
+
+ 
+
+Screen allows you to create full-screen applications with minimal code effort. It takes care of handling window resizing, cursor hiding, and character rendering, giving your application a professional look without worrying about the underlying details. With Screen, you can easily create interactive command-line tools or games that take up the entire screen, providing an immersive experience for your users.
+

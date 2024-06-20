@@ -1,0 +1,6 @@
+Pyxel is a Python library that allows you to create games using a simple and intuitive API.
+
+
+
+Pyxel is designed for ease of use and allows developers to quickly prototype and deploy their game ideas. It provides a simple graphics system, a powerful event handling system, and built-in support for popular game libraries like SDL2. With Pyxel, you can easily load and save game data, create menus and HUDs, and even implement physics engines. Its simplicity makes it an excellent choice for beginners and hobbyists, while its power makes it suitable for professional developers as well.
+

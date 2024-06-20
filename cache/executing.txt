@@ -1,0 +1,6 @@
+Python's `executing` library is designed to simplify execution of Python code.
+
+
+
+The `executing` library provides a simple way to execute arbitrary Python code within your program. It allows you to define functions that can be executed like regular Python functions, giving you more control over how and when your code is run. With `executing`, you can write custom execution contexts and execute code in isolation from the rest of your program.
+

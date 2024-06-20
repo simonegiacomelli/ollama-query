@@ -1,0 +1,6 @@
+Soupsieve is a Python library for searching HTML documents using CSS selectors.
+
+
+
+Soupsieve provides an easy way to find specific parts of a web page's content by using CSS selectors in a similar manner as the BeautifulSoup library does with XPath expressions. This allows you to quickly locate and manipulate elements on a webpage without having to navigate through its hierarchical structure.
+

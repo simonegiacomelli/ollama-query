@@ -1,0 +1,6 @@
+Zarr is a Python library for working with compression formats such as Zstandard, LZMA, and Snappy.
+
+
+
+zarr provides an interface to work with compressed data using these formats. It allows you to easily read and write compressed files, and also provides functions for compressing and decompressing in-memory data. This makes it useful for tasks such as processing large datasets, caching frequently-used data, or sending data over a network connection where bandwidth is limited.
+

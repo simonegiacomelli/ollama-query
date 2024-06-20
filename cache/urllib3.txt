@@ -1,0 +1,6 @@
+urllib3 is the standard library in Python for making HTTP requests.
+
+
+
+urllib3 is a powerful and flexible library that provides an easy-to-use interface for making HTTP requests. It allows you to send requests to web servers, get responses, and handle various types of requests like GET, POST, PUT, and DELETE. The library also includes support for HTTPS requests, handling redirects, and following links. Additionally, it includes features such as retrying failed requests, connecting over SSL/TLS, and working with HTTP proxies.
+

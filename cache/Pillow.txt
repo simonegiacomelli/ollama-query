@@ -1,0 +1,6 @@
+Pillow is a popular Python library for image processing.
+
+
+
+Pillow is an open-source Python Imaging Library (PIL) that provides easy-to-use functions to process and manipulate images. It supports various image formats, including JPEG, PNG, GIF, and BMP. With Pillow, you can perform tasks such as resizing, cropping, rotating, and applying filters to your images. Its simple and intuitive API makes it a great tool for beginners and experienced developers alike.
+

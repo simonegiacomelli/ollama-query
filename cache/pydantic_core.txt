@@ -1,0 +1,6 @@
+Python is a popular programming language for building scalable data pipelines.
+
+
+
+pydantic_core is a lightweight Python library that provides a simple and efficient way to create and manipulate graph structures. It allows you to define nodes and edges, perform operations on the graph, and visualize the results. pydantic_core is designed to be flexible and easy to use, making it a great choice for data scientists, engineers, and researchers who need to work with complex data relationships.
+

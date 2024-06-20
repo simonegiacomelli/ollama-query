@@ -1,0 +1,6 @@
+Python is a versatile library that provides an interface to the Shapefile format, which is used for storing geographic data.
+
+
+
+The "pyshp" Python library allows you to read and write shapefiles. This is useful if you need to work with spatial data in your Python scripts or applications. With "pyshp", you can easily create, modify, and query shapefiles.
+

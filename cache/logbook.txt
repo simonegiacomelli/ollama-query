@@ -1,0 +1,6 @@
+Logbook is a simple Python logging library that allows you to easily log events to a file.
+
+
+
+Logbook provides a simple way to log events to a file in a human-readable format. It's designed to be easy to use and flexible enough to handle different types of logging needs. With Logbook, you can log messages at different levels (debug, info, warning, error) and include additional information such as timestamps, filenames, and line numbers.
+

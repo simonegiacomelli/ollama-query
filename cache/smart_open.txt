@@ -1,0 +1,6 @@
+Smart Open is a Python library that allows you to read and write CSV, JSON, and Excel files in a more efficient way than traditional methods.
+
+
+    
+Smart Open provides a simple and intuitive API for reading and writing data to various file formats. It uses lazy loading to efficiently read large datasets without loading the entire file into memory. This makes it particularly useful for working with big data or high-performance computing applications.
+

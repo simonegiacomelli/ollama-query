@@ -1,0 +1,5 @@
+The Python library MNE is part of the larger FieldTrip toolbox.
+
+
+MNE is an open-source signal processing library for EEG/MEG and other neuroimaging data. It provides a wide range of functions for preprocessing, filtering, and analyzing electrophysiological signals. MNE is particularly well-suited for research in neuroscience and psychology, and is widely used in the field to analyze brain activity recorded with techniques like electroencephalography (EEG) and magnetoencephalography (MEG).
+

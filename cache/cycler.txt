@@ -1,0 +1,6 @@
+Cycler is a Python library that simplifies the process of creating cycle plots using matplotlib.
+
+
+
+Cycler allows you to create custom cycle styles by defining different markers, line styles, and colors for each cycle. It provides an easy-to-use interface for specifying these options and can be used with other plotting libraries like seaborn and plotly.
+

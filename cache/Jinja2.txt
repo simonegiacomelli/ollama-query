@@ -1,0 +1,6 @@
+Jinja2 is a templating engine for Python that allows developers to generate dynamic text using templates.
+
+
+
+Jinja2 is an extension of the original Jinja library and provides more features and flexibility. It supports filters, tests, macros, and inheritance, making it suitable for complex template applications. The syntax is based on the Django template language and is easy to learn.
+

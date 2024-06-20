@@ -1,0 +1,6 @@
+Simplejson is a Python library that provides an efficient way to work with JSON data.
+
+
+
+Simplejson is a fast and easy-to-use JSON parser and encoder for Python. It's designed to be compatible with both Python 2.x and 3.x. The library provides a simple API for encoding and decoding JSON data, as well as support for advanced features like custom types and recursive objects.
+

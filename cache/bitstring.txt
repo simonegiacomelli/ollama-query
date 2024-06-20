@@ -1,0 +1,6 @@
+The bitstring library for Python is a simple and intuitive way to work with binary data.
+
+ 
+
+bitstring allows you to easily create, manipulate, and analyze binary data structures like bits, bytes, strings of arbitrary length and structure. It includes functionality for encoding and decoding various types of binary data, including fixed-length integers, floating point numbers, booleans, and more.
+

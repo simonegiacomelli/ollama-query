@@ -1,0 +1,6 @@
+mypy is a static type checker for Python code.
+
+
+
+mypy is a static type checker for Python code that can be used to catch type-related errors before runtime. It's based on the popular mypy language server and allows developers to write type-checked Python code using a subset of Mypy's features, such as type hints, generic types, and more.
+

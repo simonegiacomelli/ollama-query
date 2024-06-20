@@ -1,0 +1,6 @@
+Memory is a Python library that allows you to create custom memory allocators, which can be useful for optimizing memory usage in certain applications.
+
+
+
+The `memory-allocator` library provides a simple and easy-to-use API for creating custom memory allocators. With this library, you can define your own memory allocation strategy, such as allocating memory in fixed-size chunks or using a least-recently-used (LRU) cache to optimize performance. The library also includes a set of built-in allocators that can be used as a starting point for your own custom allocator.
+

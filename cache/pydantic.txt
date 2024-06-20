@@ -1,0 +1,6 @@
+Pydantic is a Python library that allows you to define complex data models in a type-safe manner using Python's type system.
+
+
+
+Pydantic provides a way to define your data models as Python classes, and then validate instances of those classes against those definitions. This means you can ensure that the structure and contents of your data are correct, and catch any errors early on. It also includes support for JSON serialization and deserialization, making it easy to work with complex data structures in a type-safe way.
+

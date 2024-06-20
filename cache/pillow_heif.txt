@@ -1,0 +1,6 @@
+Python is an amazing language for data analysis and machine learning.
+
+ 
+
+Pillow HEIF (High-Efficiency Image Format) is an extension of Python's Pillow library that allows you to read and write images in the HEIC/HEIF format. This library provides a seamless integration with existing Pillow functionality, making it easy to work with these new formats. With Pillow HEIF, you can load and manipulate HEIC/HEIF images just like you would with JPEG or PNG files.
+

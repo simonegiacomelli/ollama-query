@@ -1,0 +1,6 @@
+The idna library is a Python package that provides an implementation of the Internationalized Domain Name Abstract Syntax (IDNA) specification.
+
+
+
+idna converts Unicode domain names to and from the ASCII-compatible encoding used in DNS. It also handles IDN-aware operations such as case-folding and punycode conversion. This allows applications to handle internationalized domain names correctly, while still being able to communicate with non-IDLNA aware systems.
+

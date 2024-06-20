@@ -1,0 +1,6 @@
+Zstandard is an open-source library for compression and decompression of data.
+
+
+
+zstandard is a Python wrapper around the zstd library, allowing you to use the Zstandard algorithm in your Python applications. It provides support for compressing and decompressing data, including files and buffers, and offers features such as streaming decompression, error handling, and customization options.
+

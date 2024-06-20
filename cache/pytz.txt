@@ -1,0 +1,8 @@
+The Python library "pytz" is designed to help you work with time zones in your Python programs.
+
+
+
+
+
+Pytz (Python timezone) is a powerful and flexible library that provides accurate and reliable information about timezones. It allows you to easily convert dates/times from one timezone to another, and it includes many features such as daylight saving time (DST) adjustments and handling of historical DST changes.
+

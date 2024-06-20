@@ -1,0 +1,6 @@
+cysignals is a Python library that provides an interface to the signals module on Unix and Windows platforms.
+
+
+
+The cysignals package allows you to manipulate and listen for system-level signals in your Python program. This includes sending and trapping signals, as well as querying information about the current signal handler. It provides a way to integrate signal handling with Python's asynchronous event handling mechanisms, making it possible to write robust and reliable network clients that can recover from unexpected termination.
+

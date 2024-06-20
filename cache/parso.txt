@@ -1,0 +1,6 @@
+parso is a Python library that provides a simple and flexible way to parse structured text data.
+
+
+
+parso allows you to define a grammar for your structured text format using Python classes and then parses your input data against this grammar. The resulting parsed data can be easily converted into Python objects, making it easy to work with the data in your Python programs.
+

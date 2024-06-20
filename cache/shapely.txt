@@ -1,0 +1,6 @@
+Shapely is a Python library that operates on shapes in geographic information systems (GIS). 
+
+
+
+Shapely provides efficient algorithms for geometric operations such as calculating intersections, unions, and differences of simple shapes, including points, line segments, polygons, circles, and elliptical arcs. It also includes functions to test the spatial relationships between these shapes, like containment, crossing, and intersection. The library supports a range of data types, including NumPy arrays, SciPy sparse matrices, and Pandas DataFrames.
+

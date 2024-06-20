@@ -1,0 +1,6 @@
+Python is a versatile programming language that offers a wide range of libraries for various tasks.
+
+
+
+pycryptodome is a Python library that provides support for cryptographic primitives such as encryption, decryption, hashing, digital signatures, and more. It is designed to be highly customizable and can work with both symmetric and asymmetric algorithms. The library includes implementations of popular algorithms like AES, RSA, SHA, HMAC, and ECDSA, making it suitable for use in a wide range of applications.
+

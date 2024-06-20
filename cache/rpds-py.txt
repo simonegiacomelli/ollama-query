@@ -1,0 +1,6 @@
+RPDS-py is a Python library designed for researchers and developers to efficiently process and analyze large-scale datasets.
+
+
+
+RPDS-py provides a suite of tools for data manipulation, filtering, and aggregation, making it an essential tool for anyone working with big data. Its modular architecture allows users to easily integrate custom algorithms and functionality, streamlining their workflow and accelerating research or development projects.
+

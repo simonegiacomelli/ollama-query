@@ -1,0 +1,6 @@
+Annotated types for Python: static type checking for dynamic code.
+
+
+
+The "annotated-types" library is designed to provide a way to statically type-check your Python code while still allowing you to write flexible, dynamic code. By using type annotations, you can specify the expected types of function parameters and return values, making it easier to catch errors before runtime. This library integrates seamlessly with popular static type checkers like mypy, allowing you to leverage the benefits of static typing in your Python projects.
+

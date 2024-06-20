@@ -1,0 +1,6 @@
+The certifi library is a Python module for validating SSL/TLS certificates.
+
+
+
+The certifi library provides a set of trusted root certificates that can be used to validate SSL/TLS certificates. It uses the Mozilla Certificate Store as its source and includes both the system-trust-store and the publicly-trusted certificates, which makes it a reliable choice for validating SSL/TLS certificates in Python applications.
+

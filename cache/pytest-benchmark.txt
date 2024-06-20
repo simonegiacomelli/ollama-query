@@ -1,0 +1,6 @@
+pytest-benchmark is a Python library that provides a simple way to write benchmarking tests for your code.
+
+ 
+
+pytest-benchmark allows you to easily measure the performance of your code by running it multiple times and measuring how long each run takes. You can use this information to identify slow parts of your code and optimize them for better performance.
+

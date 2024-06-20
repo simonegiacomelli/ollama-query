@@ -1,0 +1,6 @@
+The Python library "py" is a package for Python 3.x that provides utilities to create and interact with Python modules.
+
+
+
+The py library allows you to dynamically import and manipulate Python modules at runtime, giving you a level of flexibility and control that's not possible with traditional imports. It also includes tools for creating and manipulating module files, as well as functions for working with the Python interpreter itself.
+

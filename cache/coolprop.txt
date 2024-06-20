@@ -1,0 +1,6 @@
+Coolprop is a Python library that provides a convenient interface to calculate thermodynamic properties of fluids using various proprietary and open-source correlation models.
+
+
+
+The coolprop library is designed to be easy to use, with a simple and intuitive API. It supports a wide range of fluids, including pure substances and mixtures, and can handle complex calculations such as phase equilibria and transport properties. The library includes correlations for a variety of properties, including density, enthalpy, entropy, and viscosity, among others.
+

@@ -1,0 +1,8 @@
+The unyt library is designed to simplify unit conversions in Python.
+
+
+
+
+
+The unyt library provides a convenient way to perform unit conversions using a simple syntax. It supports a wide range of physical units and allows for complex expressions involving addition, subtraction, multiplication, division, and exponentiation. This makes it easy to convert between different units of measurement without having to worry about the underlying math.
+

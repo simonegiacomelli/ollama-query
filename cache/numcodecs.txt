@@ -1,0 +1,6 @@
+Numcodecs is a Python library that provides tools for encoding and decoding numerical data in a variety of formats.
+
+
+
+Numcodecs allows developers to easily convert between different numerical data types such as integers, floats, and strings. It also supports various compression algorithms like gzip and lz4, making it ideal for working with large datasets. With numcodecs, you can write more efficient code that handles the complexities of numerical data conversion and compression.
+

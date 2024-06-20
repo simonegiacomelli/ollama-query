@@ -1,0 +1,6 @@
+The "b2d" library is a Python module that allows you to convert between different binary formats.
+
+
+
+The b2d library provides a simple way to convert between various binary data formats such as hexadecimal, octal, and binary. It supports both big-endian and little-endian byte orders, making it suitable for working with data in a variety of contexts.
+

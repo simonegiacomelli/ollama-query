@@ -1,0 +1,6 @@
+The "nh3" library is a collection of functions and classes designed to facilitate the analysis of NMR spectra in Python.
+
+
+
+The "nh3" library provides tools for processing and analyzing Nuclear Magnetic Resonance (NMR) spectroscopy data. It includes functions for peak picking, integration, and assignment, as well as classes for working with NMR spectra and datasets. The library is particularly useful for biochemists, biologists, and chemists who work with NMR data in their research.
+

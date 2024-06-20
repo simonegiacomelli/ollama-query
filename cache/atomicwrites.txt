@@ -1,0 +1,6 @@
+Atomic writes provide an atomic operation for writing files. This is very useful when you are in a situation where you cannot guarantee that your process has exclusive access to a file.
+
+
+
+The "atomicwrites" library provides a way to safely write to files, even in the presence of concurrent writes or failures. It achieves this by using the underlying operating system's atomic operations to ensure that either the entire file is written, or nothing is written at all. This allows for predictable and reliable file writes, without worrying about partial writes or corruption due to concurrent access.
+

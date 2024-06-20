@@ -1,0 +1,6 @@
+The fs specification library for Python.
+
+
+
+fsspec is a Python library that provides a unified interface to various file systems and storage systems. It allows you to write code that can handle different types of files and directories in a uniform way, making it easier to develop applications that need to work with multiple types of data stores. The library supports a wide range of file systems and storage systems, including local file systems, HDFS, AWS S3, Azure Blob Storage, and more.
+

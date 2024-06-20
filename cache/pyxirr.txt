@@ -1,0 +1,7 @@
+Pyxirr is a Python library for implementing XIRR (eXtreme Inflation Rate Risk) measures in financial instruments.
+
+
+
+
+Pyxirr provides an easy-to-use interface to calculate and manipulate XIRR metrics, including effective duration, spread, and yield. It also allows users to create custom XIRR curves and perform sensitivity analysis. The library is particularly useful for risk managers and traders working with inflation-indexed securities.
+

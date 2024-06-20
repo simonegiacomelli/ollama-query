@@ -1,0 +1,6 @@
+Orjson is a Python library that provides an efficient way to work with JSON data.
+
+
+
+orjson is a Python library for encoding and decoding JSON (JavaScript Object Notation) data. It uses the rust-orjson library under the hood, which allows it to be much faster than the standard json module in Python. This makes it particularly useful when working with large amounts of JSON data.
+

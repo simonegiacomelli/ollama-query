@@ -1,0 +1,7 @@
+Brotli is a lossless compression library developed by Google.
+
+
+
+
+brotli is a compression library that uses a combination of algorithms such as Huffman coding, LZ77, and arithmetic encoding to compress data. It is designed to be highly efficient and can handle large datasets. The library provides several tools for working with compressed data, including decompression, compression, and checking the integrity of compressed files.
+

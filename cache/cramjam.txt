@@ -1,0 +1,6 @@
+Cramjam is a Python library that provides an implementation of the popular Craps game.
+
+
+
+Cramjam allows you to simulate the roll of dice in the classic game of craps. It includes features for tracking wins and losses, displaying current game state, and generating random numbers for dice rolls. This library is perfect for anyone looking to learn how to create a simple simulation in Python or just wants to play around with some basic statistics and probability concepts.
+

@@ -1,0 +1,6 @@
+Frozenlist is a Python library that provides a way to create immutable lists, which can be useful in certain situations where data integrity needs to be maintained.
+
+
+
+Frozenlist allows you to create list-like objects that cannot be changed once they are created. This can help prevent errors and bugs by ensuring that the data remains consistent throughout your program.
+

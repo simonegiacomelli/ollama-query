@@ -1,0 +1,6 @@
+Python is known for its simplicity and versatility in data analysis and visualization.
+
+ 
+
+matplotlib-pyodide allows Python programs to run in web browsers, using PyODIDE's ability to run Python code on the client-side. It provides a subset of matplotlib's plotting functionality, allowing users to create interactive plots that can be shared and viewed directly within web pages.
+

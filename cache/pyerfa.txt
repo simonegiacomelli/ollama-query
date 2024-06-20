@@ -1,0 +1,6 @@
+Python is a powerful tool for data analysis.
+
+
+
+pyerfa is a Python library that provides an interface to the ERFA (European Radiative Forcing Assessment) database. This database contains spectral radiance distributions for various atmospheric gases and aerosols, which are used in climate modeling and other applications where accurate radiation calculations are important. The pyerfa library allows users to easily access and manipulate this data, making it a valuable tool for researchers working on climate-related projects.
+

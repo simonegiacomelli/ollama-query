@@ -1,0 +1,6 @@
+pygame-ce is a Python library that provides a set of tools for creating games.
+
+
+
+pygame-ce is an extension to the popular Pygame library. It allows you to create more complex and visually appealing games with ease. The library includes features such as sprite animation, tile mapping, and particle systems, which are not available in standard Pygame. It also provides support for various audio formats and allows you to load images and fonts from files. With pygame-ce, you can create 2D games with advanced graphics and sound effects.
+

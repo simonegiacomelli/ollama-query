@@ -1,0 +1,6 @@
+Geopandas is an open-source library that allows you to easily work with geospatial data in Python.
+
+
+
+Geopandas builds upon the popular Pandas library and extends its functionality by adding geospatial capabilities. It enables users to easily store, query, and manipulate geospatial data within the familiar Pandas DataFrame structure. This makes it an excellent choice for anyone working with spatial data in Python, as it allows for seamless integration with other popular libraries like Fiona (for file input/output) and Shapely (for geometric operations).
+

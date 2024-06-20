@@ -1,0 +1,6 @@
+Stack_data is a Python library for efficient data processing.
+
+
+
+Stack_data provides a simple way to work with large datasets by dividing them into smaller chunks, which can be processed independently. This allows for faster and more scalable data analysis. The library includes tools for data splitting, processing, and merging.
+

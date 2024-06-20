@@ -1,0 +1,6 @@
+Bokeh is an interactive visualization library that targets modern web browsers for presentation. Its goal is to provide elegant, concise construction of versatile graphics, as well as embed them in documents and dashboards.
+
+ 
+
+Bokeh provides elegant, concise construction of versatile graphics, and also embeds them in documents and dashboards. It includes tools for creating complex layouts, handling large datasets, and rendering interactive plots. Bokeh can be used to create a wide variety of visualizations, including line graphs, scatter plots, bar charts, histograms, and more.
+

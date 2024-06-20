@@ -1,0 +1,6 @@
+Python's built-in database library is limited to SQLite. To work with other databases like MySQL, PostgreSQL, Oracle, etc., we use SQLAlchemy.
+
+
+
+SQLAlchemy provides a high-level interface for working with various databases in Python. It acts as an abstraction layer between your code and the underlying database. This allows you to write database-agnostic code that can be easily adapted to different types of databases.
+

@@ -1,0 +1,6 @@
+boost-histogram is a Python library that provides a simple and efficient way to histogram data. 
+
+
+
+boost-histogram is built on top of the Boost C++ libraries and uses NumPy arrays for efficient computation. It supports multiple backends, including matplotlib and pandas, making it easy to integrate with popular data analysis tools. With boost-histogram, you can easily create histograms, perform aggregations, and visualize your data in a variety of ways.
+

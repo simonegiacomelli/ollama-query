@@ -1,0 +1,6 @@
+The "typing-extensions" library is an optional extension to Python's typing system.
+
+ 
+
+This package provides additional type hints that can be used with Python's type hinting system. These include types for common use cases such as ellipsis, protocol, and a few others. It also includes support for generating static type checkers and runtime type information.
+

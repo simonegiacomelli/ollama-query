@@ -1,0 +1,6 @@
+pkgconfig is a tool for discovering dependencies of a package.
+
+
+
+pkgconfig is a Python library that provides an interface to the pkg-config system. It allows you to inspect the dependencies and build options for installed packages (like libraries and frameworks), which makes it easy to write scripts that can determine the correct flags and libraries needed to compile code depending on what dependencies are available.
+

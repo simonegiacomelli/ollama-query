@@ -1,0 +1,6 @@
+Clarabel is a Python library for analyzing and visualizing musical structures and patterns.
+
+
+
+Clarabel uses machine learning algorithms to identify repeating patterns and motifs in music, allowing users to create detailed analyses of musical compositions. It can also generate new melodies and harmonies based on these patterns, making it a useful tool for musicians, composers, and music theorists.
+

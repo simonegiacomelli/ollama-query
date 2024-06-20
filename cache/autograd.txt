@@ -1,0 +1,6 @@
+Autograd is a Python library that provides automatic differentiation for Python functions.
+
+ 
+
+Autograd's automatic differentiation algorithm can be used to compute gradients of user-defined Python functions with respect to their inputs. This allows for efficient and accurate computation of gradients in a wide range of applications, including machine learning, scientific computing, and optimization.
+

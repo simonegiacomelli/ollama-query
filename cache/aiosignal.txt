@@ -1,0 +1,6 @@
+aiosignal is an extension to Python's asyncio library that allows you to handle signals (such as SIGINT, SIGTERM) in your asynchronous code.
+
+
+
+aiosignal allows you to install signal handlers on specific signals. This means you can write asynchronous code that is aware of and responds to signals sent by the operating system. For example, you could use aiosignal to detect when the user presses Ctrl+C or sends a kill signal to your process. You could then take steps to properly shut down your application before it's terminated. Aiosignal provides a way for your asynchronous code to interact with the signal handling mechanism provided by the operating system.
+

@@ -1,0 +1,6 @@
+Wrapt is a Python library that provides tools for wrapping functions and classes.
+
+
+
+Wrapt allows you to create decorators and wrappers around existing functions and classes, giving you fine-grained control over their behavior. It's particularly useful when working with third-party libraries, allowing you to easily customize or extend their functionality without modifying the underlying code. Wrapt also provides support for introspection and manipulation of wrapped objects, making it a powerful tool in your Python toolkit.
+

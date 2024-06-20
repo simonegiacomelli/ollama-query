@@ -1,0 +1,6 @@
+Jedi is a Python library that provides an interface to search for information about people, places, organizations, dates, titles, and more from Wikipedia.
+
+
+
+Jedi uses Wikipedia's API to fetch data and provide it in a structured format. It supports various types of queries such as searching by keyword, entity recognition, and disambiguation.
+

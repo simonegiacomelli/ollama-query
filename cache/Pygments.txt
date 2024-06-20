@@ -1,0 +1,6 @@
+Python is a powerful tool for syntax highlighting in your scripts.
+
+
+
+Pygments is a Python library that provides syntax highlighting capabilities for various programming languages, markup formats, and other structured data formats. It's a very flexible and easy to use library that can be used to generate code snippets with colorful highlights in your programs or documents.
+

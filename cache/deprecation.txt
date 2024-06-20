@@ -1,0 +1,6 @@
+The deprecation library for Python is used to mark functions or modules as deprecated.
+
+
+
+The deprecation library provides decorators that can be used to mark functions or modules as deprecated. It also allows you to specify an alternative function or module that should be used instead, and it provides a way to check if a function or module is deprecated.
+

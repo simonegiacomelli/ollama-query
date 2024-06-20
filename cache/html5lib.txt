@@ -1,0 +1,6 @@
+html5lib is a Python library that parses HTML 5 documents.
+
+
+
+html5lib is a comprehensive parsing library for HTML 5 documents. It provides a robust way to parse and manipulate HTML content. The library supports both strict and lenient parsing modes, allowing developers to choose between being strict about HTML syntax or handling invalid markup. html5lib also includes tools for serializing and deserializing HTML content to and from other formats like XML.
+

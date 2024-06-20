@@ -1,0 +1,7 @@
+cmyt is a Python library that allows you to manipulate and analyze cytometry data.
+
+
+
+
+cmyt provides tools for loading, filtering, and transforming cytometry datasets, as well as visualizing data in various ways. It also includes functions for identifying cell populations based on expression patterns and performing basic statistical analysis. Overall, cmyt aims to simplify the process of working with complex flow cytometry data.
+

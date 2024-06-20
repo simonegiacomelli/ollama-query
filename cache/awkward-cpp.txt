@@ -1,0 +1,7 @@
+awkward-cpp is a Python library that provides an interface to C++ code from within Python.
+
+
+
+
+awkward-cpp allows you to call C++ functions, create and manipulate C++ objects, and handle C++ exceptions in your Python code. It uses ctypes under the hood to achieve this, but provides a more Pythonic API and better error handling than raw ctypes.
+

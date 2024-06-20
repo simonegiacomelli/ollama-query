@@ -1,0 +1,6 @@
+pynacl is a Python library that provides an implementation of the Networking and Cryptography (NaCl) library.
+
+
+
+pynacl is a thin wrapper around the NaCl cryptographic library, which provides cryptographic primitives for tasks such as key exchange, signing, and encrypting data. It also includes utilities for generating and manipulating keys. The library supports both synchronous and asynchronous usage models, making it suitable for use in a variety of Python applications.
+

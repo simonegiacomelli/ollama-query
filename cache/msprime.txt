@@ -1,0 +1,6 @@
+msprime is a Python library for simulating evolutionary histories of biological sequences.
+
+
+
+msprime provides a flexible framework for simulating the evolution of DNA, protein, and other biological sequences under a variety of models, including birth-death processes, coalescent theories, and more. It allows users to customize simulations with parameters such as population sizes, mutation rates, selection coefficients, and demographic histories.
+

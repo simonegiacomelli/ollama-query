@@ -1,0 +1,6 @@
+Pyheif is a Python library that enables users to extract hierarchical features from EEG (electroencephalography) data.
+
+
+
+Pyheif provides an efficient way to extract hierarchical features from EEG data using a novel approach based on a combination of wavelet and Fourier transforms. This allows for the detection of patterns and trends in brain activity at different scales, making it a powerful tool for neuroscience research and clinical applications.
+

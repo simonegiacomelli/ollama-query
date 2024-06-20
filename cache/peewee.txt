@@ -1,0 +1,6 @@
+Peewee is a Python library that allows you to create and manage databases.
+
+ 
+
+Peewee provides a simple, Pythonic way of working with relational databases. It supports SQLite, PostgreSQL, MySQL, Oracle, and many others through the use of SQLAlchemy's generic database interface. With peewee, you can quickly define models, perform CRUD operations (create, read, update, delete), and execute custom SQL queries. It also provides support for transactions, views, and aggregate functions.
+

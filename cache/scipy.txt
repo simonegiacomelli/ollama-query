@@ -1,0 +1,6 @@
+Scipy is a scientific computing library for Python that provides functions for scientific and engineering applications.
+
+
+
+Scipy includes modules for optimization, linear algebra, integration, interpolation, special functions, FFTs, statistics, and more. It's designed to be compatible with NumPy arrays and matrices. With SciPy, you can efficiently solve common tasks in science and engineering, such as data analysis, signal processing, and numerical computation.
+

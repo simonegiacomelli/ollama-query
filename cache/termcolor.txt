@@ -1,0 +1,6 @@
+termcolor is a Python library that allows you to print colored text in your terminal.
+
+
+
+This library provides support for 256-color mode on Unix-based systems (such as Linux and MacOS) and Windows. It includes functions for setting the color of your text, background, and cursor. This can be useful for creating simple games or applications with a graphical user interface.
+

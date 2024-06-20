@@ -1,0 +1,6 @@
+demes is a Python library for estimating demographic parameters from genetic data.
+
+
+
+demes allows users to estimate demographic parameters such as effective population sizes, growth rates, and migration rates from genetic data. It uses a Bayesian approach and can handle complex demographic scenarios with multiple populations and events. The library provides a range of models and tools for analyzing genetic data, including simulations, likelihood calculations, and model selection techniques.
+

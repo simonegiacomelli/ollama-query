@@ -1,0 +1,6 @@
+Python is an excellent choice for data analysis and visualization.
+
+ 
+
+The "texttable" library in Python is used to create tables from nested lists or dictionaries. It allows you to easily format the table with borders, alignment, and more. The library also supports various column widths and formatting options, making it a great tool for creating nicely formatted text tables.
+

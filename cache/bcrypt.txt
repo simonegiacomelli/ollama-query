@@ -1,0 +1,6 @@
+The Python library "bcrypt" provides support for generating and verifying passwords hashed using the bcrypt algorithm.
+
+
+
+bcrypt is a library that provides an implementation of the Blowfish-based password hashing scheme developed by Niels Provos and David M. Jones. It's designed to be slow, which makes it more resistant to brute-force attacks. This library can be used to hash and verify passwords securely.
+

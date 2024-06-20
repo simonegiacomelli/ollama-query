@@ -1,0 +1,6 @@
+Optlang is a Python library that provides an interface to popular linear and nonlinear programming solvers.
+
+
+
+Optlang allows users to formulate optimization problems using the familiar syntax of popular modeling languages such as AMPL, GAMS, and LP. The library then uses these formulations to solve the problem using the chosen solver. This makes it easy for users to switch between different solvers and take advantage of their strengths.
+

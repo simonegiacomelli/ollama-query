@@ -1,0 +1,6 @@
+ewah_bool_utils is a Python library that provides a set of utility functions for working with boolean values in a concise and efficient manner.
+
+
+
+The ewah_bool_utils library offers a range of functionality for manipulating and processing boolean values. This includes logical operations such as AND, OR, NOT, and XOR, as well as bitwise operations like shifting and masking. The library is designed to be easy to use and provides a lot of flexibility in how you can manipulate your boolean data.
+

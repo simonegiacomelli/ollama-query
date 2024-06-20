@@ -1,0 +1,6 @@
+The "Lakers" Python library is an open-source project that enables developers to leverage the power of machine learning and natural language processing techniques in their projects.
+
+ 
+
+This innovative library provides pre-built functions and tools for tasks such as sentiment analysis, entity recognition, and topic modeling. It allows developers to easily integrate these capabilities into their applications, making it a valuable resource for anyone working on text-based projects.
+

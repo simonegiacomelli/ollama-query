@@ -1,0 +1,6 @@
+The tsikit library is an open-source Python package that provides efficient data structures and algorithms for manipulating time series data.
+
+ 
+
+tskit's primary goal is to enable fast and scalable processing of large-scale time series datasets. It offers a range of classes and functions designed to efficiently handle tasks such as aggregation, filtering, and resampling, allowing users to perform complex analysis on massive datasets in a timely manner. The library has been optimized for performance and memory efficiency, making it particularly useful for big data applications and distributed computing environments.
+

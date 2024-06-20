@@ -1,0 +1,6 @@
+Python's cffi_example is a simple Python library that demonstrates how to call C code from Python using the cffi library.
+
+
+
+cffi_example is a basic example of how to create and use a C extension module with Python. It allows you to expose C functions to Python, creating a new interface for interacting with your existing C codebase. This allows you to reuse your existing C code in Python programs, making it easier to integrate different languages into your workflow.
+

@@ -1,0 +1,8 @@
+Python is a popular language for data science, machine learning, and automation.
+
+
+
+
+
+Setuptools is a Python library that helps developers to create, manage and distribute packages. It simplifies the process of creating and publishing Python packages, making it easier for users to share and reuse code. Setuptools provides features such as automatic package discovery, dependency management, and configuration options.
+

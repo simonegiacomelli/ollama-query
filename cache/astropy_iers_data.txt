@@ -1,0 +1,6 @@
+The astropy_iers_data library is a Python package that provides access to the International Earth Rotation and Reference Systems Service (IERS) data.
+
+
+
+This library allows users to easily download and work with IERS data, which includes information about the Earth's rotation, the positions of celestial bodies, and the properties of time scales. The library also includes tools for manipulating and combining this data, making it a valuable resource for researchers in fields such as geophysics, astronomy, and engineering.
+

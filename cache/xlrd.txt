@@ -1,0 +1,7 @@
+xlrd is a powerful Python library used to read Excel files (xls,xlsx, xlsm) into pandas DataFrame.
+
+
+
+
+The xlrd library provides functions for reading Excel files (.xls, .xlsx, .xlsm) and converting them into Python objects. It can be used to load data from Excel spreadsheets into Pandas DataFrames or other data structures. The library supports various Excel file formats and allows users to specify the sheet name or number when loading data.
+

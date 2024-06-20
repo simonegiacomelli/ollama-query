@@ -1,0 +1,6 @@
+The strictyaml library for Python is designed to parse YAML strings in a strict manner.
+
+
+
+strictyaml is a YAML parser that ensures the correctness of input data by enforcing the YAML specification. It does not tolerate unknown tags, unquoted keys, or trailing commas, making it suitable for use cases where data integrity is paramount.
+

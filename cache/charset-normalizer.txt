@@ -1,0 +1,6 @@
+The Python library "charset-normalizer" is a tool for detecting the character encoding of a given string.
+
+
+
+This library provides an efficient way to determine the correct character set (or charset) and encoding scheme used in a string. It works by examining the input data and determining which character set is most likely to be used, based on its content. The result is a reliable and robust method for normalizing character sets in Python, making it easier to work with text data of varying encodings.
+

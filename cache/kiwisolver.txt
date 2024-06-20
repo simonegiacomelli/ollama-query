@@ -1,0 +1,6 @@
+Kiwisolver is a Python library designed for efficient and scalable optimization of polynomial equations over rational numbers.
+
+
+
+Kiwisolver provides a simple way to solve systems of polynomial equations using Gröbner basis algorithms. It supports various types of inputs, including polynomials with complex coefficients, and offers tools for manipulating the input data, such as adding or removing variables. Kiwisolver also allows users to specify their own custom solvers for specific problem domains.
+

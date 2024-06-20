@@ -1,0 +1,5 @@
+Altair is a Python library that provides a simple and efficient way to manipulate and analyze astronomical data. It's designed for astronomers who want to quickly explore their data without having to write complex code.
+
+ 
+Altair is built on top of Astropy, another popular astronomy library in Python. It allows users to easily filter, sort, and group large datasets, perform basic statistics, and even generate plots and visualizations. The library also includes tools for working with time-series data and performing simple signal processing tasks. With Altair, astronomers can quickly get insights into their data without having to learn complex programming concepts.
+

@@ -1,0 +1,7 @@
+The yt library is a Python package for analyzing and visualizing data from the Sloan Digital Sky Survey (SDSS) and other astronomical surveys.
+
+
+
+
+yt is an open-source library that provides a set of tools for analyzing and visualizing large datasets. It is particularly well-suited to working with datasets that have been processed by the Yale-CfA-Harvard P3D galaxy formation simulation, but it can be used with any dataset that has been formatted according to the yt's conventions.
+

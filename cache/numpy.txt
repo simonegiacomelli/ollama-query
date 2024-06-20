@@ -1,0 +1,6 @@
+Python's most popular scientific computing library is.
+
+
+
+numpy (Numerical Python) is a library for working with arrays and matrices in Python. It provides support for large, multi-dimensional arrays and matrices, and provides a wide range of high-level mathematical functions to operate on these arrays, including matrix multiplication, transpose, and eigenvalue decomposition.
+

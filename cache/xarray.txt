@@ -1,0 +1,6 @@
+xarray is an open-source library that provides data structures and operations for multi-dimensional arrays in Python. It's designed to efficiently handle large datasets, often used in scientific computing and data analysis.
+
+
+
+xarray allows users to easily manipulate and analyze large datasets with labeled axes, similar to Pandas DataFrames. It also supports advanced indexing, grouping, and aggregating capabilities, making it a powerful tool for working with multi-dimensional arrays in Python.
+

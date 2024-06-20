@@ -1,0 +1,6 @@
+Python's data visualization library for creating static, animated, and interactive visualizations in python.
+
+
+
+Matplotlib is a Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments. It began as a collection of functions to make basic plots but has since grown into a full-fledged plotting system. Matplotlib is often used for creating scientific and engineering-based charts, graphs, and other visualizations.
+

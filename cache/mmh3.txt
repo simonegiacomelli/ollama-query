@@ -1,0 +1,6 @@
+mmh3 is a Python library designed to facilitate the manipulation of MMH (Mersenne Hashing) hash values.
+
+ 
+
+The mmh3 library provides a simple and efficient way to generate MMH values for arbitrary-sized input data. It supports various types of input, including strings, integers, and raw binary data, and allows for customization of parameters such as the output size and the number of parallel threads used during computation.
+

@@ -1,0 +1,6 @@
+PyIceberg is a Python library for efficient computation of iceberg set sizes in parallel.
+
+
+
+PyIceberg is a Python library that provides an efficient way to compute the size of an iceberg set, which is a subset of a larger dataset that satisfies certain properties. It uses parallel processing techniques to scale computations on large datasets, making it suitable for big data analytics and machine learning applications.
+

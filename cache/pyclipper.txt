@@ -1,0 +1,6 @@
+Python is an excellent language for implementing cryptography.
+
+
+
+pyclipper is a Python wrapper around the OpenSSL library that provides cryptographic functions to encrypt and decrypt data using the AES algorithm with a variety of modes including CBC, CFB, OFB, and ECB. It also supports SHA-256 hashing and generates random keys. The library's primary function is to simplify the use of OpenSSL's cryptographic primitives by providing a Pythonic interface.
+

@@ -1,0 +1,6 @@
+The Rust-Panic-Test library is a Python package that allows you to test your Rust code.
+
+
+
+This library provides a simple way to run your Rust tests from within a Python script. You can write Rust tests as if they were unit tests in Python, and then use this library to execute them. The library includes a command-line interface for running individual tests or test suites.
+

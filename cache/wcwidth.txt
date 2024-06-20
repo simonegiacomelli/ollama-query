@@ -1,0 +1,8 @@
+The `wcwidth` library in Python provides functions to calculate the width of a string in characters, taking into account different languages' character widths.
+
+
+
+
+
+This library is particularly useful for handling Unicode characters and calculating their widths correctly. It also provides functionality to determine the direction of text (left-to-right or right-to-left) and to detect whether a character is wide or narrow.
+

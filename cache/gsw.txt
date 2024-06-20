@@ -1,0 +1,6 @@
+The Python library "gsw" is a tool for geophysical fluid dynamics.
+
+
+
+The gsw library provides a set of tools for computing various physical properties of seawater, such as density, buoyancy frequency, and potential temperature. It also includes functions for converting between different coordinate systems and units used in oceanography. The library relies on the International Equation of State (IES) for its calculations and is particularly useful for ocean modelers and researchers working with large-scale ocean circulation models.
+

@@ -1,0 +1,6 @@
+statsmodels is an excellent Python library for statistical modeling.
+
+
+
+statsmodels provides a wide range of procedures for estimation and inference from statistical models, including generalized linear mixed models, general/linear mixed effects models, generalized linear models, time series models, and more. It also includes tools for statistical testing and model comparison, as well as data exploration and visualization.
+

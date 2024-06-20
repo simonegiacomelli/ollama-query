@@ -1,0 +1,6 @@
+The Python library "coverage" is used to measure the degree of code coverage during software testing.
+
+
+
+Coverage measures the percentage of your code that's actually been executed by running your tests. It tracks which lines have been hit and how often they've been hit, giving you a detailed report on what parts of your code are being tested effectively.
+

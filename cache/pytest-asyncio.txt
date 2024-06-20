@@ -1,0 +1,6 @@
+pytest-asyncio is a library that allows you to write tests for Python code that uses the asyncio library.
+
+
+
+This library provides several helpers that simplify testing of asyncio-based code. It includes support for mocking coroutines and futures, as well as integration with pytest's built-in fixtures and plugins. With pytest-asyncio, you can write tests that are easier to read and maintain, and that better cover the behavior of your asyncio-based code.
+

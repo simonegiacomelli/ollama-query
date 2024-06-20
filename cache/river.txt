@@ -1,0 +1,6 @@
+River is a Python library that allows you to easily create and experiment with machine learning models.
+
+
+
+River is a Python library for supervised learning that provides an intuitive API for training and testing models on both classification and regression tasks. It offers support for a wide range of algorithms, including linear regression, logistic regression, decision trees, random forests, support vector machines, gradient boosting machines, k-nearest neighbors, neural networks, and more.
+

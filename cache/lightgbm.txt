@@ -1,0 +1,6 @@
+LightGBM is an open-source library for fast training of gradient boosting models.
+
+
+
+LightGBM is a popular Python library that provides a fast and efficient way to train gradient boosting models, which are commonly used in machine learning tasks such as classification, regression, and ranking. It is designed to be faster and more scalable than other libraries like XGBoost and Scikit-Learn, while still providing similar or better performance. LightGBM also supports various types of data structures, including categorical and numerical features, and allows for easy integration with popular deep learning frameworks.
+

@@ -1,0 +1,6 @@
+tqdm is a Python library that provides a progress bar for iterating over data.
+
+
+
+tqdm (Terminal Quick Dynamic Mode) is a Python library that provides a progress bar for iterating over data. It's designed to be used with for loops and provides instant feedback on the progress of your code. It can also display information such as elapsed time, estimated remaining time, and more.
+

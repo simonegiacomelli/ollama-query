@@ -1,0 +1,6 @@
+Pysam is an open-source Python library for handling SAM (Sequence Alignment/Map) files.
+
+
+
+pysam is a powerful tool for working with SAM files in Python. It provides efficient and easy-to-use interfaces for reading and writing SAM files, as well as manipulating alignments within the file. This allows developers to quickly integrate SAM data into their projects, without having to worry about the intricacies of the format itself.
+

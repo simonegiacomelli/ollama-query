@@ -1,0 +1,6 @@
+NetworkX is a Python library used for creating, manipulating and analyzing complex networks.
+
+
+
+NetworkX provides classes for nodes (data structures) and edges (connections), allowing you to create complex network structures like graphs. It supports various algorithms for graph traversal, finding shortest paths, clustering, and more. You can easily represent, analyze and visualize large-scale network data structures in Python.
+

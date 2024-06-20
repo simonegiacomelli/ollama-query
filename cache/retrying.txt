@@ -1,0 +1,6 @@
+The retrying library for Python provides a simple way to implement retry logic in your code. It's designed to be flexible and easy to use.
+
+ 
+
+retrying is a lightweight library that allows you to easily write code that can handle temporary failures when calling external services or performing IO operations. It provides a range of built-in strategies for retrying, including fixed and exponential backoff, as well as support for custom strategies. This makes it easy to add robustness to your code without having to write complex error handling logic yourself.
+

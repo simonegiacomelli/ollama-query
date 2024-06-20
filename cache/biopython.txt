@@ -1,0 +1,6 @@
+Biopython is an open-source Python library that provides tools for computational molecular biology.
+
+
+
+Biopython is a set of freely available tools for computational molecular biologists. It allows users to easily access various databases and perform various bioinformatics tasks. Some examples of what Biopython can do include parsing GenBank files, searching for BLAST matches, generating sequence alignments, and performing phylogenetic analysis.
+

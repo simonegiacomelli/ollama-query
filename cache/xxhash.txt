@@ -1,0 +1,6 @@
+xxhash is a fast hash function written in C.
+
+
+
+xxhash is a fast and strong hash function designed by Yann Collet. It provides high-speed hashing with good distribution properties and is suitable for general-purpose use cases such as data integrity checking, message authentication codes (MACs), and data deduplication. The xxhash algorithm is designed to be highly efficient in terms of computational resources, making it a great choice for applications where low-latency hash computations are crucial.
+

@@ -1,0 +1,5 @@
+The Tomli library is a simple TOML parser for Python.
+
+
+Tomli is a lightweight, pure-Python implementation of the TOML (Tom's Obligatory Markup Language) data serialization format. It provides a simple and easy-to-use API for parsing, encoding, and manipulating TOML documents.
+

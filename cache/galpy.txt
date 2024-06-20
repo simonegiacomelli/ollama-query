@@ -1,0 +1,6 @@
+GALPY is an open-source Python library designed to facilitate galaxy evolution modeling.
+
+
+
+GALPY provides tools for simulating galaxy evolution, including dark matter halo formation, gas accretion and star formation, as well as observational signatures like spectra and images. It includes a suite of algorithms for solving the gravitational equation and tracking galaxy-scale dynamics, allowing users to model realistic galaxy simulations.
+

@@ -1,0 +1,6 @@
+A simple library for generating in-line plots directly in Jupyter Notebooks.
+
+
+
+matplotlib-inline is an extension to the popular matplotlib plotting library that allows you to generate in-line plots within your Jupyter Notebook cells. This means you can create and display interactive visualizations without having to save them as separate files or worry about formatting issues. The library provides a seamless integration with the existing matplotlib API, making it easy to include high-quality plots in your notebook output.
+

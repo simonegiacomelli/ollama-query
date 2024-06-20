@@ -1,0 +1,6 @@
+The decorator is a Python library that allows you to wrap another function in order to extend its behavior without permanently modifying it.
+
+
+
+The decorator pattern is a design pattern that wraps an object (function) to provide additional functionality. It can be used to add metadata, logging, caching, and many other features to your functions. The @ symbol is used to mark the decorated function.
+

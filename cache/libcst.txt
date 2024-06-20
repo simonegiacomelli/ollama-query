@@ -1,0 +1,6 @@
+The Python library "libcst" is used for parsing CST (Context-Free Grammar) trees.
+
+
+
+libcst is a Python library that allows you to parse and manipulate Context-Free Grammar (CST) trees. It provides an efficient way to create, manipulate, and analyze CSTs, which are crucial in many areas of computer science, such as compiler design, natural language processing, and formal verification. With libcst, you can easily construct, traverse, and query CSTs, making it a powerful tool for anyone working with grammars and parsing technology.
+

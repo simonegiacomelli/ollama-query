@@ -1,0 +1,6 @@
+Sympy is a Python library for symbolic mathematics. 
+
+
+
+sympy is a Python library that allows you to manipulate mathematical expressions symbolically. It can simplify expressions, solve equations, and more. Sympy includes support for a wide range of mathematical operations, including algebraic manipulations, calculus, and number theory. It's particularly useful for solving problems that involve complex mathematical derivations or proofs.
+

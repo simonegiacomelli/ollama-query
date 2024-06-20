@@ -1,0 +1,5 @@
+Newick is a Python library that allows you to easily create and manipulate phylogenetic trees in the Newick format.
+
+
+Newick trees are a standard representation of phylogenetic relationships between organisms. They can be used to store information about the evolutionary history of a group of species, including their relationships with one another and the timing of their divergences.
+

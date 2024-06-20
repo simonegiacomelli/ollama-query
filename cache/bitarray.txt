@@ -1,0 +1,6 @@
+The bitarray library for Python provides support for operating on arrays of bits (or boolean values). It is designed to be fast, memory-efficient and easy to use.
+
+
+
+The bitarray class is similar to the Python list class, but each element can have only two possible values: True or False. You can create a new bitarray by calling the constructor with an initial size, just like you would with a regular array. Bit operations are supported through special methods that provide logical AND (&), OR (|), XOR (^) and NOT (~).
+

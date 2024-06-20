@@ -1,0 +1,6 @@
+The itertools module is great for creating iterators from iterables. It's essential to Python programming, but sometimes it just doesn't go far enough.
+
+
+
+more-itertools provides more than 40 new and useful functions that you can use on top of the standard itertools. It includes functions like groupedby, partitionby, sortgroupedby, and more. These functions allow for advanced data manipulation, such as grouping, filtering, and sorting iterables.
+

@@ -1,0 +1,5 @@
+OpenCV-Python is a combination of OpenCV's C++ library and Python. It is used for computer vision tasks such as image and video processing.
+
+
+OpenCV-Python provides a set of functionalities to work with images, videos and 3D data. It includes various functions for image processing, feature detection, object recognition, and much more.
+

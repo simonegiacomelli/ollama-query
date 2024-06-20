@@ -1,0 +1,7 @@
+Python is used extensively in the development of documentation systems.
+
+
+ 
+
+Docutils is an open-source Python library for generating documentation from plain-text source files. It allows you to write your documentation using simple, yet powerful syntax and converts it into various formats such as HTML, PDF, ePub, Texinfo, man page, etc.
+

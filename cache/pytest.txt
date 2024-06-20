@@ -1,0 +1,6 @@
+Pytest is a mature full-featured testing framework that has been widely adopted in Python community.
+
+ 
+
+Pytest provides a lot of features out of the box, including test discovery, fixtures, and plugins. It's also highly flexible and extensible, allowing you to customize your tests to fit your specific needs.
+

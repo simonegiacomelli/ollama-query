@@ -1,0 +1,7 @@
+Sourmash is a Python library that provides an efficient way to compute hash values for large datasets.
+
+
+
+
+Sourmash offers several key features, including support for multiple hashing algorithms (such as CityHash and FNV-1a), automatic handling of missing or null values, and the ability to handle very large datasets. It also includes built-in support for common data types like integers, strings, and bytes. Overall, Sourmash provides a powerful toolset for working with large datasets in Python.
+

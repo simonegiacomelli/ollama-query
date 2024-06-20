@@ -1,0 +1,6 @@
+The Python library cligj is a command-line interface for Genomics and Bioinformatics applications.
+
+
+
+cligj provides a simple way to interact with various bioinformatics tools and databases from the command line. It supports a wide range of tools including BLAST, NCBI's PubMed, and the UCSC Genome Browser. The library also allows for the customization of search queries and output formats.
+

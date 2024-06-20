@@ -1,0 +1,6 @@
+The distlib is a Python library used to create and manage software distributions.
+
+
+
+distlib provides support for creating and managing software distributions. It allows you to define dependencies between packages, verify package integrity, and perform tasks during the installation process. The library also includes tools for creating and manipulating software repositories.
+

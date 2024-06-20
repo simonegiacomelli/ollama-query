@@ -1,0 +1,6 @@
+Cartopy is an open-source Python library designed for creating map projections.
+
+
+
+Cartopy allows you to create high-quality, publication-ready maps using various projection methods and overlays them with geospatial data such as vectors, rasters, and 3D objects. It supports a wide range of input formats, including GeoJSON, Shapefiles, and GRIB files, and can be used in conjunction with popular Python data analysis libraries like NumPy, Pandas, and Matplotlib to create custom maps tailored to your specific needs.
+

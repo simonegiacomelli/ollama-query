@@ -1,0 +1,8 @@
+Sortedcontainers are a Python library that provides efficient sorted container data structures.
+
+
+
+
+
+Sortedcontainers provide implementations of sorted containers, such as SortedList, SortedSet, SortedDict, and others. These classes provide fast insertion, deletion, and lookup operations for sorted sequences of keys or values. The main advantage is the ability to perform these operations while keeping the sequence sorted, which can be very useful in many applications, especially when dealing with large datasets.
+

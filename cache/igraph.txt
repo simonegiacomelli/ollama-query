@@ -1,0 +1,6 @@
+igraph is a Python interface to the libigraph library.
+
+
+
+igraph is a Python package for creating, manipulating and analyzing graphs (or networks). It provides efficient algorithms for graph traversals, subgraph matching, node and edge attribute manipulation, etc. It supports multiple data formats and can read/write various file formats including GML, GraphML, EDGELIST, EDGEList, Pajek, and more. The library also includes support for a wide range of graph statistics and algorithms.
+

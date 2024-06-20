@@ -1,0 +1,6 @@
+h5py is a Python library for reading and writing HDF5 files.
+
+
+
+h5py provides a simple and easy-to-use interface to the HDF5 file format. It allows you to write data structures such as arrays, tables, and datatypes into HDF5 files, and to read them back in again. This makes it a useful tool for working with large datasets that need to be stored or shared between programs.
+

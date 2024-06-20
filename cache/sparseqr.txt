@@ -1,0 +1,6 @@
+sparseqr is a Python library designed to provide efficient methods for computing sparse QR factorizations.
+
+
+
+sparseqr provides an optimized implementation of the QR algorithm for large sparse matrices. It leverages the sparsity structure to reduce memory usage and improve computational efficiency. The library supports various sparse matrix formats, including COO, CSR, CSC, and DOK. It also includes routines for solving linear systems and computing eigenvalues and eigenvectors.
+

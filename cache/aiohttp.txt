@@ -1,0 +1,6 @@
+aiohttp is an asynchronous HTTP client/server library for Python. 
+
+
+
+aiohttp allows you to write asynchronous web applications that are both fast and scalable. It supports both HTTP/1.1 and WebSockets, and can handle a large number of concurrent connections. aiohttp also includes support for SSL/TLS encryption and automatic handling of tasks to avoid blocking the main thread. This makes it an excellent choice for building robust and efficient web services in Python.
+

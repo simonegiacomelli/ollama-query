@@ -1,0 +1,6 @@
+Astropy is a Python package that provides tools for working with astronomical data.
+
+
+
+Astropy includes modules for tasks such as units, coordinates, time, and spectral types. It also supports various file formats like FITS and ASCII tables, as well as connecting to databases and performing statistical analysis. Additionally, it provides a robust system of units, allowing users to easily manipulate and convert between different physical quantities. Overall, Astropy simplifies the process of working with astronomical data by providing a comprehensive set of tools for tasks ranging from basic data manipulation to complex scientific calculations.
+

@@ -1,0 +1,5 @@
+The ruamel.yaml library is a Python port of the popular YAML (YAML Ain't Markup Language) serialization format.
+
+ 
+ruamel.yaml provides an easy-to-use interface for parsing and generating YAML documents in Python. It supports most of the YAML 1.2 specification, including complex types like dictionaries and lists, as well as advanced features like anchors and merge keys.
+

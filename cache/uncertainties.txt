@@ -1,0 +1,6 @@
+The uncertainties library is a powerful tool for working with uncertain data in Python.
+
+
+
+uncertainties is a Python library that allows you to work with uncertain or imprecise data. It provides classes and functions for representing and manipulating intervals of possible values, as well as probabilistic distributions and fuzzy sets. With uncertainties, you can easily perform operations on uncertain quantities, propagate uncertainty through calculations, and visualize the results.
+

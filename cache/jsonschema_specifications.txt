@@ -1,0 +1,7 @@
+The Python library "jsonschema_specifications" is used to create JSON schema specifications for data validation.
+
+
+
+
+This library provides functions to generate and validate JSON schema specifications from dictionaries. It also supports recursive structures and includes additional features like support for $ref and definitions. The generated schemas can be used with popular libraries such as jsonschema, allowing for easy data validation in Python applications.
+

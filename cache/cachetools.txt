@@ -1,0 +1,6 @@
+Cachetools is a Python library that provides an easy-to-use cache layer for your application.
+
+
+
+cachetools is a small, pure-Python caching library that provides a simple way to implement caches in your applications. It allows you to easily add caching functionality to any object or function, and supports both least-recently-used (LRU) and timed caches. The library is designed to be flexible and easy to use, with support for multiple cache backends, including memory, disk, and cloud-based storage options.
+

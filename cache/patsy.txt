@@ -1,0 +1,6 @@
+Patsy is a Python library for parallelizing tasks and processes across multiple nodes.
+
+
+
+Patsy allows you to define distributed processing tasks using a simple syntax, and automatically handles the details of distributing your work across available nodes. It supports both local (e.g., multithreading) and remote (e.g., SSH) execution modes, making it easy to scale up your computations on large datasets or clusters.
+

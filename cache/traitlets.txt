@@ -1,0 +1,7 @@
+Traitlets are a set of Python classes that can be used to create custom configuration objects for use in Traits-based applications.
+
+
+
+
+A trait is a small piece of functionality that can be applied to an object. For example, a trait could make an attribute read-only or add a validator to ensure the attribute always has a certain value. Traits are defined by creating a subclass of HasTraits and defining the traits using attributes and methods on that class.
+

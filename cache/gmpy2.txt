@@ -1,0 +1,7 @@
+The gmpy2 library is a Python wrapper for the GNU Multiple Precision Arithmetic Library (GMP).
+
+
+
+
+gmpy2 provides support for large integers, rational numbers, and complex numbers, as well as polynomial arithmetic. It can handle arbitrary-precision arithmetic, making it suitable for cryptographic and scientific applications where high precision is required. The library also includes functions for computing mathematical constants like pi and e.
+

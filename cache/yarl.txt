@@ -1,0 +1,6 @@
+yarl is a YAML parser and emitter for Python.
+
+
+
+yarl is a lightweight YAML (YAML Ain't Markup Language) library that allows you to parse YAML files and strings into Python data structures, and vice versa. It provides an easy-to-use API for reading and writing YAML content, making it a great choice for projects that require YAML support.
+

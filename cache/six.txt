@@ -1,0 +1,6 @@
+The six library is a small Python module that provides some additional functionality to the standard Python libraries.
+
+
+
+The six library aims to provide a consistent interface for dealing with different types of integers, strings and dictionaries in different versions of Python. It includes functions for converting between these data types and also provides some utility functions like urlopen() and btoa().
+

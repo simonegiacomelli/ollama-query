@@ -1,0 +1,6 @@
+Python is constantly evolving, with new features being added in each release.
+
+ 
+
+The "future" library is a collection of utilities that allow Python 3.x code to be run on Python 2.x systems. It provides compatibility for future-proofing and making it easier to maintain old code as you upgrade your Python versions.
+

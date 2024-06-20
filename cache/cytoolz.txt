@@ -1,0 +1,6 @@
+Cytoolz is a high-performance library for Python that provides various functions for working with lists, sets, and dictionaries.
+
+
+
+cytoolz is an open-source library designed to provide a suite of high-performance utilities for manipulating data structures. It includes functions for filtering, mapping, reducing, and grouping data in lists, sets, and dictionaries. This library is particularly useful for large-scale data processing tasks where performance is critical.
+

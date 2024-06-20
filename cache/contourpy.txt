@@ -1,0 +1,6 @@
+Contourpy is a powerful library for Python that provides efficient algorithms for computing contours of binary images.
+
+
+
+Contourpy offers advanced functions to compute contour trees, including contour extraction from grayscale images, contour matching, and shape analysis. It also supports various contour representations, such as edge lists, polygonal chains, and B-spline curves. Contourpy is particularly useful in computer vision applications where contour detection is crucial, like object recognition, tracking, and segmentation.
+

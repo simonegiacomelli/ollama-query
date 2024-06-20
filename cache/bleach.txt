@@ -1,0 +1,6 @@
+Bleach is a Python library that provides an interface to interact with BLE (Bluetooth Low Energy) devices.
+
+
+
+BLEACH is a Python library for interacting with Bluetooth Low Energy (BLE) devices. It allows you to create and manage BLE advertisements, scan for nearby devices, and connect to them. The library also supports some advanced features like handling GATT services and characteristics.
+

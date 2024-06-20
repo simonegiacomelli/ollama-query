@@ -1,0 +1,6 @@
+Multidict is a Python library that allows you to create dictionaries of dictionaries.
+
+
+
+The multidict class extends dict to allow nested dictionary lookups. This is particularly useful for situations where you need to store and query hierarchical data structures. Multidict supports basic operations like setting, getting, and deleting values from the inner dictionaries, as well as iteration over the key-value pairs in the outer dictionary.
+

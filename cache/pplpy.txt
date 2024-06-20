@@ -1,0 +1,6 @@
+Pplpy is an open-source Python library for creating and manipulating probabilistic programming languages.
+
+
+
+pplpy is a Python library that allows you to create and manipulate probabilistic programming languages (PPLs). It provides a set of tools for defining PPLs, compiling them into efficient executable code, and running them. pplpy also includes support for common PPL operations such as sampling and inference.
+

@@ -1,0 +1,6 @@
+msgspec is a Python library for generating protocol buffer messages from arbitrary data structures.
+
+
+
+msgspec takes an arbitrarily complex data structure (like a Python class with nested attributes) and generates code to serialize and deserialize it as a protocol buffers message. This allows you to easily integrate your existing Python data models into other systems that use protocol buffers, like Google's cloud-based services or your own custom protocols.
+

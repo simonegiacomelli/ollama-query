@@ -1,0 +1,6 @@
+CFFI is a foreign function library for Python that provides a way to wrap C code in Python.
+
+
+
+CFFI (Call Foreign Function Interface) is a Python library that allows you to create a Python wrapper around existing C code. It provides a way to write Python functions that call into the C code, and vice versa, allowing you to integrate your C libraries with your Python applications. With CFFI, you can leverage the power of C for performance-critical parts of your code while still using Python for the parts where it shines.
+

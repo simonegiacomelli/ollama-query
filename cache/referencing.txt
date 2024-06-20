@@ -1,0 +1,7 @@
+Python is often used for data analysis and visualization.
+
+
+
+
+Referencing is a Python library that enables users to create custom references in their documents. It provides a simple and intuitive way to reference specific parts of a document, making it easier to cite and quote information from various sources. With Referencing, you can define your own reference styles and formats, allowing for greater control over the appearance of citations and bibliographies in your work.
+

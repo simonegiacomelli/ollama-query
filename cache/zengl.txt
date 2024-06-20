@@ -1,0 +1,6 @@
+Python is gaining popularity as a versatile tool for game development.
+
+
+
+zengl is an open-source Python library designed to simplify the process of creating 2D games with ease. It provides a simple and easy-to-use API that allows developers to focus on game logic rather than low-level graphics handling. zengl supports features such as OpenGL rendering, keyboard and mouse input, sound playback, and more.
+
